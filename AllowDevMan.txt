@@ -1,2 +1,2 @@
 *
-- falco.myftp.orggg
+- falco.myftp.org
